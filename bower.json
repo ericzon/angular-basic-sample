@@ -1,0 +1,8 @@
+{
+	"name": "Minimal Angular sample.",
+	"dependencies": {
+		"angular": "*",
+		"angular-sanitize": "*",
+		"angular-route": "*"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "angular-basic-sample",
+	"author": "Eric Lara <ericzon@gmail.com>",
+	"description": "Minimal sample",
+	"scripts": {
+		"start": "npm install && bower install && gulp"
+	},
+	"dependencies": {
+		"gulp": "*",
+		"browser-sync": "*"
+	}
+}
