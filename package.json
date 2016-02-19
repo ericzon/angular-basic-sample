@@ -2,6 +2,7 @@
 	"name": "angular-basic-sample",
 	"author": "Eric Lara <ericzon@gmail.com>",
 	"description": "Minimal sample",
+	"version": "1.0.0",
 	"scripts": {
 		"start": "npm install && bower install && gulp"
 	},
